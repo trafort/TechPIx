@@ -10,7 +10,7 @@ const splash = async () => {
   Replace Token with your Token Provided from <a href="https://unsplash.com/oauth/applications/"> Unsplash API </a>
   
   # Example
-  <img src="6c0bc72fc48f9f7de.jpg"> </img>
+  <img src="6c0bc72fc48f9f7de3affa08e68dd3a9.jpg"> </img>
   
   # Author
   
