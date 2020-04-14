@@ -14,5 +14,5 @@ const splash = async () => {
   
   # Author
   
-  @Trafort  for me Revising the Re-writing the code
+  @Trafort  for me Revising the Re-writing the code <br>
   @MadsCores For Teaching And Writing the code
